@@ -8,5 +8,5 @@ simply using xgb without cross validation and some of the features
 the public score is : 0.76076
 
 predict_simple_use_xgb_with_most_features:
-simply using xgb without cross validation and add features: Cabin and Embarked
-the public score is : 0.76555
+simply using xgb without cross validation and add features: Cabin and Embarked and ticket
+the public score is : 0.78468
